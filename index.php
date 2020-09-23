@@ -9,7 +9,7 @@
         <?php
 
         
-        echo "nosequeee";
+        echo "alumnes";
         ?>
     </body>
 </html>
