@@ -14,6 +14,8 @@ and open the template in the editor.
         echo "hola alumnes";
         
         echo "Adeu, fins dema";
+        
+        echo "aaaaaaaaaaaaa";
         ?>
     </body>
 </html>
