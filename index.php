@@ -11,9 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "hola alumnes";
-        
-        echo "Adeu, fins dema";
+
         
         echo "noseque";
         ?>
