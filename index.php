@@ -15,7 +15,7 @@ and open the template in the editor.
         
         echo "Adeu, fins dema";
         
-        echo "aaaaaaaaaaaaa";
+        echo "noseque";
         ?>
     </body>
 </html>
